@@ -30,7 +30,6 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ### Overview of Findings
 EduMentor Academy’s subscription revenue surged in early 2020 to over $750K per week, driven primarily by Premium Plus subscriptions amid heightened demand for remote learning during the COVID-19 pandemic. Revenue then declined steadily through late 2021, stabilizing at $350K–$450K per week, with Premium subscriptions ending entirely and yearly subscriptions dropping significantly. Regional analysis indicates North America’s dominance in revenue (~50%) and noticeable volatility in EMEA. To drive recovery, EduMentor should counter Premium Plus seasonality with summer offerings, revamp Premium plans with high-engagement content, and boost yearly plan retention through trials or targeted promotions.
 
-[Visualization: Line graph of total subscription revenue by month (2019–2021), highlighting the early 2020 peak and 2021 decline.]
 
 # Insights Deep Dive
 ### Plan Type Performance
