@@ -44,7 +44,7 @@ EduMentor Academy’s subscription revenue surged in early 2020 to over $750K pe
 
 
 ### Regional Performance
-- **North America led revenue.** During the peak-COVID months in early 2020, North America made up almost two thirds of weekly subscriptions, and most of the spike in Premium Plus was contained to this region. North America contributed nearly 50% of total revenue over the two years.
+- **North America led revenue.** During the peak-COVID months in early 2020, North America made up almost two thirds of weekly subscriptions, and most of the spike in Premium Plus was contained to this region. North America contributed nearly 50% of total sales over the two years.
 - **EMEA showed volatility.** Revenue fluctuations in EMEA might reflect challenges in consistent adoption across diverse educational systems.
 
 
