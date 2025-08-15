@@ -34,7 +34,7 @@ EduMentor Academy’s subscription revenue surged in early 2020 to over $750K pe
 # Insights Deep Dive
 ### Plan Type Performance
 - **Premium Plus plans led revenue in early 2020.** At the start of the pandemic, Premium Plus plans had a significant spike and record-high at $453K bookings in one week. This spike then significantly decreased and slowed in both summer of 2020 and summer of 2021, likely tied to academic calendars.
-- **Premium plans nearly ceased by December 2021.** A notable downturn, particularly in Premium plans, suggests competitive pressures or content issues.
+- **Premium plans nearly ceased by December 2021.** A notable downturn in Premium plans suggests competitive pressures or content issues.
 - **Standard plans ensured revenue stability.** Standard plans for students contributed the most to the overall renuve due to its affordability.
 
 
