@@ -1,7 +1,7 @@
 # Project Background
 Founded in 2017, EduMentor Academy is a global e-learning platform that delivers a curated library of professionally designed courses, tutoring services, and certifications. Its offerings cover both academic subjects (e.g., mathematics, science, languages) and professional skills (e.g., coding, business management), complemented by learning management tools and a mobile app. To serve diverse learners, EduMentor offers three subscription plans: Standard, Premium, and Premium Plus, which differ in content access and the number of private tutoring sessions included.
 
-As a data analyst at EduMentor, I am working with the Head of Operations to optimize performance across the product and marketing teams. This project examines subscription data from January 2020 to December 2021 to uncover trends and opportunities that can strengthen EduMentor’s business performance.
+As a data analyst at EduMentor, I am working with the Head of Operations to optimize performance across the product, sales, and marketing teams. This project examines subscription data from January 2020 to December 2021 to uncover trends and opportunities that can strengthen EduMentor’s business performance.
 
 Key areas of analysis include:
 - **North Star Metrics**: Total subscription sales from different plans
