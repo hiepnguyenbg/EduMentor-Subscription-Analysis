@@ -64,4 +64,4 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 # Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard). This dashboard enables users to filter by plan, subscription period, and region, and focuses on trends and values in sales metrics.
 
-<img width="812" alt="image" src="https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/EduMentorDashboard.png">
+<img width="812" alt="image" src="https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/EduMentor%20Dashboard.png">
