@@ -1,3 +1,20 @@
+# EduMentor Subscription Analysis
+
+
+Table of Contents
+
+- [Project Background](#project-background)
+- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
+- [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
+    - [Plan Type Performance](#plan-type-performance)
+    - [Billing Period Analysis](#billing-period-analysis)
+    - [Regional Performance](#regional-performance)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
+
+
 # Project Background
 Founded in 2017, EduMentor Academy is a global e-learning platform that delivers a curated library of professionally designed courses, tutoring services, and certifications. Its offerings cover both academic subjects (e.g., mathematics, science, languages) and professional skills (e.g., coding, business management), complemented by learning management tools and a mobile app. To serve diverse learners, EduMentor offers three subscription plans: Standard, Premium, and Premium Plus, which differ in content access and the number of private tutoring sessions included.
 
@@ -19,7 +36,7 @@ SQL queries to export data ready for analysis in Tableau could be found [here](h
 
 An interactive Tableau dashboard used to report and explore subscription sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard).
 
-# Data Structure & Initial Checks
+# Data Structure and Initial Checks
 The dataset encompasses subscription records from January 2020 to December 2021. The database structure consists of two tables: `orders` and `geo_lookup`, with a total row count of more than 200,000 records.
 
 ![EduMentor ERD](https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/EduMentor_ERD.png)
