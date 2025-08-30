@@ -12,7 +12,7 @@ Table of Contents
     - [Regional Performance](#regional-performance)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
-
+- [Dashboard](#dashboard)
 
 
 # Project Background
@@ -78,7 +78,7 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 - **Missing region data recoded.** Countries with missing regions in the `geo_lookup` table were assigned to the correct regions based on information found on the internet. The EU, though not a country, was assigned to EMEA. IR was also assigned to EMEA, even though it is controversial.
 - **Records with USD price but missing either sub_type or sub_period partly handled.** Based on the price ranges of different plans, records with a price under $20 were assigned to the monthly Standard plan. Those with higher prices were left as is.
 
-### Dashboard
+# Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard). This dashboard enables users to filter by plan, subscription period, and region, and focuses on trends and values in sales metrics.
 
 <img width="812" alt="image" src="https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/EduMentor%20Dashboard.png">
