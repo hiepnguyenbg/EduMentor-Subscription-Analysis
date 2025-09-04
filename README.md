@@ -56,13 +56,15 @@ EduMentor Academy’s subscription revenue surged in early 2020 to over $750K pe
 
 
 ### Billing Period Analysis
-- **Yearly subscriptions drove 97% of revenue.** Primarily from Premium Plus and Standard plans, yearly subscriptions were dominant but revenue declined significantly by December 2021.
-- **Monthly subscriptions remained more stable.** Monthly subscriptions showed consistency, reflecting demand for flexible commitments.
+
+- **Yearly subscriptions followed the overall trend.** Accounting for a dominant **97% of total revenue**, yearly subscriptions' trend was nearly identical to overall sales: they peaked in early 2020 and then declined significantly by the end of 2021.
+- **Monthly subscriptions showed a volatile trend.** While their revenue share was small, monthly subscriptions peaked at $18K in March 2020 before dropping to $10K by July 2020. After several fluctuations, they recovered to end the period at $14K, indicating a volatile yet resilient user that values flexible commitments.
 
 
 ### Regional Performance
-- **North America led revenue.** During the peak-COVID months in early 2020, North America made up almost two thirds of weekly subscriptions, and most of the spike in Premium Plus was contained to this region. North America contributed nearly 50% of total sales over the two years.
-- **EMEA showed volatility.** Revenue fluctuations in EMEA might reflect challenges in consistent adoption across diverse educational systems.
+
+* **North America led revenue.** During the peak of the pandemic in early 2020, North America made up almost two-thirds of weekly subscriptions, and most of the spike in Premium Plus was contained to this region. The region contributed nearly 50% of total sales over the two years.
+* **EMEA showed volatility.** Revenue fluctuations in EMEA suggest challenges in consistent adoption across diverse educational systems.
 
 
 # Recommendations
