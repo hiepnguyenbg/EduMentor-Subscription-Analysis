@@ -1,22 +1,21 @@
 # EduMentor Subscription Analysis
 
-
 Table of Contents
 
 - [Project Background](#project-background)
 - [Data Structure and Initial Checks](#data-structure-and-initial-checks)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Plan Type Performance](#plan-type-performance)
-    - [Billing Period Analysis](#billing-period-analysis)
-    - [Regional Performance](#regional-performance)
+  - [Plan Type Performance](#plan-type-performance)
+  - [Billing Period Analysis](#billing-period-analysis)
+  - [Regional Performance](#regional-performance)
 - [Recommendations](#recommendations)
 - [Assumptions and Caveats](#assumptions-and-caveats)
 - [Dashboard](#dashboard)
 
 
 # Project Background
-Founded in 2017, EduMentor Academy is a global e-learning platform that delivers a curated library of professionally designed courses, tutoring services, and certifications. Its offerings cover both academic subjects (e.g., mathematics, science, languages) and professional skills (e.g., coding, business management), complemented by learning management tools and a mobile app. To serve diverse learners, EduMentor offers three subscription plans: Standard, Premium, and Premium Plus, which differ in content access and the number of private tutoring sessions included.
+Founded in 2019, EduMentor Academy is a global e-learning platform that delivers a curated library of professionally designed courses, tutoring services, and certifications. Its offerings cover both academic subjects (e.g., mathematics, science, languages) and professional skills (e.g., coding, business management), complemented by learning management tools and a mobile app. To serve diverse learners, EduMentor offers three subscription plans: Standard, Premium, and Premium Plus, which differ in content access and the number of private tutoring sessions included.
 
 As a data analyst at EduMentor, I am working with the Head of Operations to optimize performance across the product, sales, and marketing teams. This project examines subscription data from January 2020 to December 2021 to uncover trends and opportunities that can strengthen EduMentor’s business performance.
 
@@ -32,7 +31,7 @@ SQL queries used to inspect the dataset can be found [here](https://github.com/h
 
 Targeted SQL queries regarding various business questions can be found [here](https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/Targeted%20Business%20Questions.sql).
 
-SQL queries to export data ready for analysis in Tableau could be found [here](https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/Cleaned%20Data%20for%20Analysis.sql).  
+SQL queries to export data ready for analysis in Tableau can be found [here](https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/Cleaned%20Data%20for%20Analysis.sql).  
 
 An interactive Tableau dashboard used to report and explore subscription sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard).
 
@@ -44,15 +43,16 @@ The dataset encompasses subscription records from January 2020 to December 2021.
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. SQL queries utilized to inspect and perform quality checks are available [here](https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/Initial%20Data%20Checks.sql).
 
 # Executive Summary
-### Overview of Findings
-EduMentor Academy’s subscription revenue surged in early 2020 to over $750K per week, driven primarily by Premium Plus subscriptions amid heightened demand for remote learning during the COVID-19 pandemic. Revenue then declined steadily through late 2021, stabilizing at $350K–$450K per week, with Premium subscriptions ending entirely and yearly subscriptions dropping significantly. Regional analysis indicates North America’s dominance in revenue (~50%) and noticeable volatility in EMEA. To drive recovery, EduMentor should counter Premium Plus seasonality with summer offerings, revamp Premium plans with high-engagement content, and boost yearly plan retention through trials or targeted promotions.
 
+### Overview of Findings
+
+EduMentor Academy’s subscription revenue surged in early 2020 to over $750K per week, driven primarily by Premium Plus subscriptions amid heightened demand for remote learning during the COVID-19 pandemic. Revenue then declined steadily through late 2021, a trend that saw yearly subscriptions drop significantly and the Premium plan nearly cease entirely. Regional analysis indicates North America’s dominance in revenue (~50%) and noticeable volatility in EMEA. To drive recovery, EduMentor should counter Premium Plus seasonality with summer offerings, revamp Premium plans with high-engagement content, and boost yearly plan retention through trials or targeted promotions.
 
 # Insights Deep Dive
 ### Plan Type Performance
-- **Premium Plus plans led revenue in early 2020.** At the start of the pandemic, Premium Plus plans had a significant spike and record-high at $453K bookings in one week. This spike then significantly decreased and slowed in both summer of 2020 and summer of 2021, likely tied to academic calendars.
+- **Premium Plus plans led revenue in early 2020.** At the start of the pandemic, Premium Plus plans had a significant spike and record-high at $453K in one week. This spike then significantly decreased and slowed in both the summer of 2020 and 2021, likely tied to academic calendars.
 - **Premium plans nearly ceased by December 2021.** A notable downturn in Premium plans suggests competitive pressures or content issues.
-- **Standard plans ensured revenue stability.** Standard plans for students contributed the most to the overall renuve due to its affordability.
+- **Standard plans ensured revenue stability.** Standard plans contributed the most to overall revenue due to their affordability.
 
 
 ### Billing Period Analysis
