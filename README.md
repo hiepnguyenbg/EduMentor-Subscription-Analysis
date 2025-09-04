@@ -54,33 +54,34 @@ EduMentor Academy’s subscription revenue surged in early 2020 to over $750K pe
 - **Premium plans nearly ceased by December 2021.** A notable downturn in Premium plans suggests competitive pressures or content issues.
 - **Standard plans ensured revenue stability.** Standard plans contributed the most to overall revenue due to their affordability.
 
-
 ### Billing Period Analysis
 
 - **Yearly subscriptions followed the overall trend.** Accounting for a dominant **97% of total revenue**, yearly subscriptions' trend was nearly identical to overall sales: they peaked in early 2020 and then declined significantly by the end of 2021.
 - **Monthly subscriptions showed a volatile trend.** While their revenue share was small, monthly subscriptions peaked at $18K in March 2020 before dropping to $10K by July 2020. After several fluctuations, they recovered to end the period at $14K, indicating a volatile yet resilient user that values flexible commitments.
-
 
 ### Regional Performance
 
 * **North America led revenue.** During the peak of the pandemic in early 2020, North America made up almost two-thirds of weekly subscriptions, and most of the spike in Premium Plus was contained to this region. The region contributed nearly 50% of total sales over the two years.
 * **EMEA showed volatility.** Revenue fluctuations in EMEA suggest challenges in consistent adoption across diverse educational systems.
 
+### Recommendations
 
-# Recommendations
-Based on the insights and findings above, we recommend the product, marketing, and sales teams to consider the following:
-- Reduced Premium Plus subscription in summer months might benefit from introducing short-term summer courses or educator training to maintain Premium Plus subscriptions during academic breaks.
-- Low course completion rates for Premium plans suggest revamping the plan with interactive content and targeted promotions (e.g., coding, management courses) to re-engage professionals.
-- Yearly plans have an outsized-impact on subscription revenue, so consider adding trials or personalized promotions to improve the dip in yearly plans.
-- While regional trends have remained relatively consistent, EMEA shows the most volatility - investigate whether there are features or promos to help make this region more stable. 
+Based on the uncovered insights, the product, marketing, and sales teams should consider the following recommendations:
 
+* **Counter Premium Plus Seasonality.** Introduce short-term summer courses or educator training to maintain Premium Plus subscriptions and combat the significant revenue drops during academic breaks.
+* **Revamp Underperforming Premium Plans.** Revamp the Premium plan with high-engagement content, such as coding or business management courses, and use targeted promotions to re-engage professionals.
+* **Boost Yearly Subscription Retention.** Given their outsized impact on revenue, improve yearly subscription retention by adding free trials or personalized promotions to prevent the significant post-peak dip.
+* **Stabilize Volatile EMEA Market.** Investigate and implement targeted features or promotions to help stabilize revenue trends in the EMEA region.
 
-# Assumptions and Caveats
-Throughout the analysis, multiple assumptions were made to manage challenges with the data:
-- **Missing region data recoded.** Countries with missing regions in the `geo_lookup` table were assigned to the correct regions based on information found on the internet. The EU, though not a country, was assigned to EMEA. IR was also assigned to EMEA, even though it is controversial.
-- **Records with USD price but missing either sub_type or sub_period partly handled.** Based on the price ranges of different plans, records with a price under $20 were assigned to the monthly Standard plan. Those with higher prices were left as is.
+### Assumptions and Caveats
+
+Throughout the analysis, the following assumptions and caveats were made to manage challenges with the raw data:
+
+* **Missing Region Data Imputed.** Countries with missing regional data were assigned to the correct regions based on external information. This included assigning "EU" and "IR" to the EMEA region for consistency.
+* **Incomplete Records Handled.** Records with a USD price but missing a `sub_type` or `sub_period` were partly handled. Based on plan pricing, records under $20 were assigned to the monthly Standard plan, while records with higher prices were left unassigned to avoid incorrect assumptions.
 
 # Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard). This dashboard enables users to filter by plan, subscription period, and region, and focuses on trends and values in sales metrics.
+
+An interactive Tableau dashboard used to explore subscription sales trends can be found [here](https://public.tableau.com/app/profile/hiepnguyenbg/viz/EduMentor/Dashboard). The dashboard allows users to filter by plan, subscription period, and region.
 
 <img width="812" alt="image" src="https://github.com/hiepnguyenbg/EduMentor-Subscription-Analysis/blob/main/SQL%20queries/EduMentor%20Dashboard.png">
