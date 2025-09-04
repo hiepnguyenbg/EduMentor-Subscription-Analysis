@@ -57,7 +57,7 @@ EduMentor Academy’s subscription revenue surged in early 2020 to over $750K pe
 ### Billing Period Analysis
 
 - **Yearly subscriptions followed the overall trend.** Accounting for a dominant **97% of total revenue**, yearly subscriptions' trend was nearly identical to overall sales: they peaked in early 2020 and then declined significantly by the end of 2021.
-- **Monthly subscriptions showed a volatile trend.** While their revenue share was small, monthly subscriptions peaked at $18K in March 2020 before dropping to $10K by July 2020. After several fluctuations, they recovered to end the period at $14K, indicating a volatile yet resilient user that values flexible commitments.
+- **Monthly subscriptions showed a volatile trend.** While their revenue share was small, monthly subscriptions peaked at $18K in March 2020 before dropping to $10K by July 2020. After several fluctuations, they recovered to end the period at $14K, indicating a volatile yet resilient user base that values flexible commitments.
 
 ### Regional Performance
 
@@ -71,7 +71,7 @@ Based on the uncovered insights, the product, marketing, and sales teams should 
 * **Counter Premium Plus Seasonality.** Introduce short-term summer courses or educator training to maintain Premium Plus subscriptions and combat the significant revenue drops during academic breaks.
 * **Revamp Underperforming Premium Plans.** Revamp the Premium plan with high-engagement content, such as coding or business management courses, and use targeted promotions to re-engage professionals.
 * **Boost Yearly Subscription Retention.** Given their outsized impact on revenue, improve yearly subscription retention by adding free trials or personalized promotions to prevent the significant post-peak dip.
-* **Stabilize Volatile EMEA Market.** Investigate and implement targeted features or promotions to help stabilize revenue trends in the EMEA region.
+* **Stabilize Volatile EMEA Market.** Investigate and implement targeted features or promotions to stabilize revenue trends in the EMEA region.
 
 ### Assumptions and Caveats
 
